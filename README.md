@@ -23,13 +23,12 @@ El sistema fue evaluado mediante la métrica de **Similitud de Coseno**, obtenie
 * **Consistencia:** El modelo logra agrupar ítems similares de manera efectiva, garantizando recomendaciones coherentes con el historial del usuario.
 
 
-<img width="1414" height="125" alt="image" src="https://github.com/user-attachments/assets/9856b9e0-d0d1-4f29-b722-126c5949cb61" />
-
-
-
 ## Resultados y Conclusiones
 * **Rendimiento Robusto:** El modelo demuestra una separación clara en los espacios latentes, permitiendo agrupar preferencias de usuario de forma efectiva.
 * **Resolución de Problemas:** El proyecto fue migrado estratégicamente de TensorFlow a PyTorch para resolver conflictos de dependencias y optimizar la arquitectura del modelo, demostrando capacidad de adaptación técnica.
+  
+<img width="1414" height="125" alt="image" src="https://github.com/user-attachments/assets/9856b9e0-d0d1-4f29-b722-126c5949cb61" />
+
 
 ## Cómo ejecutar
 1. Clonar el repositorio.
