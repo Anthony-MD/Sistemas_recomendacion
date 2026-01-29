@@ -17,6 +17,15 @@ Este proyecto implementa un sistema de recomendación híbrido basado en Deep Le
 * **Normalización de Similitud:** Uso de similitud de coseno normalizada (con scores estables entre 50 y 70) para garantizar recomendaciones consistentes y evitar sesgos en los pesos de los embeddings.
 
 
+## Análisis de Resultados
+El sistema fue evaluado mediante la métrica de **Similitud de Coseno**, obteniendo resultados clave para la validación del modelo:
+* **Puntuaciones entre 50 y 70:** Estos valores indican una separación clara entre categorías de películas y una captura precisa de las preferencias del usuario.
+* **Consistencia:** El modelo logra agrupar ítems similares de manera efectiva, garantizando recomendaciones coherentes con el historial del usuario.
+
+
+<img width="1414" height="125" alt="image" src="https://github.com/user-attachments/assets/9856b9e0-d0d1-4f29-b722-126c5949cb61" />
+
+
 
 ## Resultados y Conclusiones
 * **Rendimiento Robusto:** El modelo demuestra una separación clara en los espacios latentes, permitiendo agrupar preferencias de usuario de forma efectiva.
